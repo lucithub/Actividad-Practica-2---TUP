@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\repositories\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\repositories\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\repositories\\interfaces\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\repositories\\interfaces\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\services\\managerfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:services\\managerfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F86D88-82CD-499E-B49C-2120CD5131B7}|..\\FacturacionApi\\FacturacionApi.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\facturacionapp-problema1-5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:facturacionapp-problema1-5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F86D88-82CD-499E-B49C-2120CD5131B7}|..\\FacturacionApi\\FacturacionApi.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapi\\facturacionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F86D88-82CD-499E-B49C-2120CD5131B7}|..\\FacturacionApi\\FacturacionApi.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\repositories\\facturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\repositories\\facturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\repositories\\interfaces\\ifacturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\repositories\\interfaces\\ifacturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\repositories\\formaspagosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\repositories\\formaspagosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\domain\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:domain\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\domain\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:domain\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\domain\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:domain\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|c:\\users\\noteb\\source\\repos\\prog. ii\\facturacionapp-problema1-5\\data\\repositories\\interfaces\\iformaspagosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB422F6-E613-4EA5-BD20-55AB92036189}|FacturacionApp-Problema1-5.csproj|solutionrelative:data\\repositories\\interfaces\\iformaspagosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacturacionApp-Problema1-5",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\FacturacionApp-Problema1-5.csproj",
+              "RelativeDocumentMoniker": "FacturacionApp-Problema1-5.csproj",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\FacturacionApp-Problema1-5.csproj",
+              "RelativeToolTip": "FacturacionApp-Problema1-5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T04:22:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturacionApi",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApi\\FacturacionApi.csproj",
+              "RelativeDocumentMoniker": "..\\FacturacionApi\\FacturacionApi.csproj",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApi\\FacturacionApi.csproj",
+              "RelativeToolTip": "..\\FacturacionApi\\FacturacionApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T04:21:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FacturacionApi\\Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApi\\Program.cs",
+              "RelativeToolTip": "..\\FacturacionApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:54:03.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApi\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "..\\FacturacionApi\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApi\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "..\\FacturacionApi\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:54:52.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Services\\ManagerFacturas.cs",
+              "RelativeDocumentMoniker": "Services\\ManagerFacturas.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Services\\ManagerFacturas.cs",
+              "RelativeToolTip": "Services\\ManagerFacturas.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:56:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:15:21.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\FacturasRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FacturasRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\FacturasRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FacturasRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAGQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:45:27.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\Interfaces\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\Interfaces\\IArticuloRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IArticuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:44:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\Articulos.cs",
+              "RelativeDocumentMoniker": "Domain\\Articulos.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\Articulos.cs",
+              "RelativeToolTip": "Domain\\Articulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:40:00.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Domain\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\DetalleFactura.cs",
+              "RelativeToolTip": "Domain\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:29:30.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\Facturas.cs",
+              "RelativeDocumentMoniker": "Domain\\Facturas.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\Facturas.cs",
+              "RelativeToolTip": "Domain\\Facturas.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:29:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticulosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\ArticulosRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ArticulosRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\ArticulosRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ArticulosRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:28:00.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Domain\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Domain\\FormaPago.cs",
+              "RelativeToolTip": "Domain\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:22:54.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:14:52.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormasPagosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\FormasPagosRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FormasPagosRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\FormasPagosRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FormasPagosRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:50:13.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFacturasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\Interfaces\\IFacturasRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IFacturasRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\Interfaces\\IFacturasRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IFacturasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:47:05.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFormasPagosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\Interfaces\\IFormasPagosRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IFormasPagosRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Prog. II\\FacturacionApp-Problema1-5\\Data\\Repositories\\Interfaces\\IFormasPagosRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IFormasPagosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:46:18.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

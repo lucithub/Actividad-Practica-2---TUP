@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|c:\\users\\noteb\\source\\repos\\productosapi - 2.4\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|c:\\users\\noteb\\source\\repos\\productosapi - 2.4\\services\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|solutionrelative:services\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|c:\\users\\noteb\\source\\repos\\productosapi - 2.4\\productosapi - 2.4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|solutionrelative:productosapi - 2.4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|c:\\users\\noteb\\source\\repos\\productosapi - 2.4\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1A7E8-2736-45EB-AC94-09BC95D0F67F}|ProductosApi - 2.4.csproj|solutionrelative:models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:54:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\Services\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Services\\IAplicacion.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\Services\\IAplicacion.cs",
+              "RelativeToolTip": "Services\\IAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:51:29.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosApi - 2.4.csproj",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\ProductosApi - 2.4.csproj",
+              "RelativeDocumentMoniker": "ProductosApi - 2.4.csproj",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\ProductosApi - 2.4.csproj",
+              "RelativeToolTip": "ProductosApi - 2.4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T23:50:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ProductosApi - 2.4\\Models\\Productos.cs",
+              "RelativeToolTip": "Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:49:37.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
